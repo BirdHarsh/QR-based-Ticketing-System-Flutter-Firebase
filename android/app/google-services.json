@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "84288458313",
+    "project_id": "eticket-806d7",
+    "storage_bucket": "eticket-806d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84288458313:android:97d0b8a5ae8e0bef7fb998",
+        "android_client_info": {
+          "package_name": "com.QrTicket.flutter_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84288458313-buglh6j5k7tarh3lmb1vnh0ucbkdno18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4m7oDoz54F5Bp95pZQ7A4reWYphB5HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84288458313-buglh6j5k7tarh3lmb1vnh0ucbkdno18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84288458313:android:6928f6b9d4a47e4e7fb998",
+        "android_client_info": {
+          "package_name": "com.adminapp.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84288458313-buglh6j5k7tarh3lmb1vnh0ucbkdno18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4m7oDoz54F5Bp95pZQ7A4reWYphB5HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84288458313-buglh6j5k7tarh3lmb1vnh0ucbkdno18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84288458313:android:57c5bc79b83580a57fb998",
+        "android_client_info": {
+          "package_name": "com.harshvardhanrajak.flutter_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84288458313-buglh6j5k7tarh3lmb1vnh0ucbkdno18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4m7oDoz54F5Bp95pZQ7A4reWYphB5HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84288458313-buglh6j5k7tarh3lmb1vnh0ucbkdno18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
